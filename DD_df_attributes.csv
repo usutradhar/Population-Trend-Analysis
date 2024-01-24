@@ -1,0 +1,38 @@
+﻿Column Name,Description
+STATEFP,STATE ID
+GEOID,Unique geoid for each city
+NAMELSAD,Name with associated legal/statistical area description
+weighted_HU_density_sqmi,Weighted housing unit density in a city
+label,"Current population trend derived from census data 2000,2010, 2020"
+density_km2,Population density in city (people per square km)
+CensusPop_20,City population from census 2020
+future trend from SSP 1,Population trend for SSP 1 (using MK test on ssp2020 to ssp2100 data)
+future trend from SSP 2,Population trend for SSP 2 (using MK test on ssp2020 to ssp2100 data)
+future trend from SSP 3,Population trend for SSP 3 (using MK test on ssp2020 to ssp2100 data)
+future trend from SSP 4,Population trend for SSP 4 (using MK test on ssp2020 to ssp2100 data)
+future trend from SSP 5,Population trend for SSP 5 (using MK test on ssp2020 to ssp2100 data)
+REGION,"Census Regions [1: Northeast, 2: Midwest, 3: South, 4: West]"
+DIVISION,Census Divisions 
+tt_2_work_place,Mean commute time for city
+no_veh,Percent population in city with no vehicles per household
+veh_1,Percent population in city with one  vehicle per household
+veh_2_or+,Percent population in city with two or more vehicles per household
+GEOID_place,Unique geoid for each place
+GEOID_cbsa,No of Core-based Statistical Areas overlapping with the city
+cbsa20-to-place allocation factor,Core-based Statistical Areas to places allocation factor found from GeoCorr2022
+tt_2_work,Mean commute time for Core-based Statistical Area (CBSA)
+GEOID_,"Unique geoid for each city, same as GEOID"
+Urban area (2022)_count,No of urban areas overlapping with the city
+population_place_sum,"Aggregated city population, for check"
+ua-to-place allocation factor_min,"Urban area to city allocation factor, minimum value"
+ua-to-place allocation factor_max,"Urban area to city allocation factor, maximum value"
+population_ua_min,Minimum population in the urban area that this city in a part of
+population_ua_max,Maximum population in the urban area that this city in a part of
+city type,City type based on degree of urbanization
+median_income,Median income of city
+veh 1+,Percent population in city with one or more vehicles per household
+veh_<=_1,Percent population in city with one or fewer vehicles per household
+,
+Note: ,
+"Here, the terms 'place' and 'city' have been used analogously",
+"If Urban area (2022)_count =1, ua-to-place allocation factor_min == ua-to-place allocation factor_min",
