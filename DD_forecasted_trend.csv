@@ -1,0 +1,59 @@
+﻿Column Name,Description
+GEOID,Unique geoid for each place
+NAME,Geographic Area Name
+NAMELSAD,Name with associated legal/statistical area description
+LSAD,legal/statistical area code
+ALAND,Land area in square meter
+CensusPop_20,City population from census 2020
+label,"Current population trend from census data 2000, 2010, 2020"
+State,State ID
+ssp12020,Population in 2020 for scenario SSP 1
+ssp22020,Population in 2020 for scenario SSP 2
+ssp32020,Population in 2020 for scenario SSP 3
+ssp42020,Population in 2020 for scenario SSP 4
+ssp52020,Population in 2020 for scenario SSP 5
+ssp12030,Population in 2030 for scenario SSP 1
+ssp22030,Population in 2030 for scenario SSP 2
+ssp32030,Population in 2030 for scenario SSP 3
+ssp42030,Population in 2030 for scenario SSP 4
+ssp52030,Population in 2030 for scenario SSP 5
+ssp12040,Population in 2040 for scenario SSP 1
+ssp22040,Population in 2040 for scenario SSP 2
+ssp32040,Population in 2040 for scenario SSP 3
+ssp42040,Population in 2040 for scenario SSP 4
+ssp52040,Population in 2040 for scenario SSP 5
+ssp12050,Population in 2050 for scenario SSP 1
+ssp22050,Population in 2050 for scenario SSP 2
+ssp32050,Population in 2050 for scenario SSP 3
+ssp42050,Population in 2050 for scenario SSP 4
+ssp52050,Population in 2050 for scenario SSP 5
+ssp12060,Population in 2060 for scenario SSP 1
+ssp22060,Population in 2060 for scenario SSP 2
+ssp32060,Population in 2060 for scenario SSP 3
+ssp42060,Population in 2060 for scenario SSP 4
+ssp52060,Population in 2060 for scenario SSP 5
+ssp12070,Population in 2070 for scenario SSP 1
+ssp22070,Population in 2070 for scenario SSP 2
+ssp32070,Population in 2070 for scenario SSP 3
+ssp42070,Population in 2070 for scenario SSP 4
+ssp52070,Population in 2070 for scenario SSP 5
+ssp12080,Population in 2080 for scenario SSP 1
+ssp22080,Population in 2080 for scenario SSP 2
+ssp32080,Population in 2080 for scenario SSP 3
+ssp42080,Population in 2080 for scenario SSP 4
+ssp52080,Population in 2080 for scenario SSP 5
+ssp12090,Population in 2090 for scenario SSP 1
+ssp22090,Population in 2090 for scenario SSP 2
+ssp32090,Population in 2090 for scenario SSP 3
+ssp42090,Population in 2090 for scenario SSP 4
+ssp52090,Population in 2090 for scenario SSP 5
+ssp12100,Population in 2100 for scenario SSP 1
+ssp22100,Population in 2100 for scenario SSP 2
+ssp32100,Population in 2100 for scenario SSP 3
+ssp42100,Population in 2100 for scenario SSP 4
+ssp52100,Population in 2100 for scenario SSP 5
+future trend from SSP 1,Population trend for SSP 1 (using MK test on ssp2020 to ssp2100 data)
+future trend from SSP 2,Population trend for SSP 2 (using MK test on ssp2020 to ssp2100 data)
+future trend from SSP 3,Population trend for SSP 3 (using MK test on ssp2020 to ssp2100 data)
+future trend from SSP 4,Population trend for SSP 4 (using MK test on ssp2020 to ssp2100 data)
+future trend from SSP 5,Population trend for SSP 5 (using MK test on ssp2020 to ssp2100 data)
